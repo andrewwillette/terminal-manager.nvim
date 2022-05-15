@@ -1,6 +1,6 @@
-# terminal.nvim
+# terminal-manager.nvim
 
-Neovim plugin for managing the terminal.
+Manage a terminal session per tab.
 
 Configuration:
 
